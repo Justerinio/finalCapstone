@@ -1,1 +1,3 @@
-# finalCapstone
+# Name: Task_Manager program
+
+The Task Manager application is a simple yet essential tool for organizing tasks and managing user accounts. It provides functionalities for user registration, task creation, task assignment, task tracking, report generation, and statistical analysis. Users can register, add tasks, view all tasks, view tasks assigned to them, generate reports on task and user statistics, and display overall statistics. This project is important as it helps individuals or teams effectively manage their tasks, track progress, and analyze performance, ultimately leading to improved productivity and time management.
